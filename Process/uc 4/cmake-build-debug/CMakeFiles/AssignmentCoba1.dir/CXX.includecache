@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/suryapradipta/Desktop/Process/uc 4/CTIS.cpp
+iostream
+-
+CTIS.h
+/Users/suryapradipta/Desktop/Process/uc 4/CTIS.h
+
+/Users/suryapradipta/Desktop/Process/uc 4/CTIS.h
+string
+-
+ostream
+-
+vector
+-
+
+/Users/suryapradipta/Desktop/Process/uc 4/CentreOfficer.cpp
+iostream
+-
+CTIS.h
+/Users/suryapradipta/Desktop/Process/uc 4/CTIS.h
+
+/Users/suryapradipta/Desktop/Process/uc 4/CovidTest.cpp
+CTIS.h
+/Users/suryapradipta/Desktop/Process/uc 4/CTIS.h
+
+/Users/suryapradipta/Desktop/Process/uc 4/Patient.cpp
+CTIS.h
+/Users/suryapradipta/Desktop/Process/uc 4/CTIS.h
+iostream
+-
+
+/Users/suryapradipta/Desktop/Process/uc 4/TestCentre.cpp
+CTIS.h
+/Users/suryapradipta/Desktop/Process/uc 4/CTIS.h
+iostream
+-
+
+/Users/suryapradipta/Desktop/Process/uc 4/TestKit.cpp
+CTIS.h
+/Users/suryapradipta/Desktop/Process/uc 4/CTIS.h
+
+/Users/suryapradipta/Desktop/Process/uc 4/User.cpp
+CTIS.h
+/Users/suryapradipta/Desktop/Process/uc 4/CTIS.h
+
+/Users/suryapradipta/Desktop/Process/uc 4/main.cpp
+iostream
+-
+CTIS.h
+/Users/suryapradipta/Desktop/Process/uc 4/CTIS.h
+vector
+-
+

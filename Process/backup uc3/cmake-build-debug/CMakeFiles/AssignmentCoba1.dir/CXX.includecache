@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/suryapradipta/Desktop/Process/AssignmentCoba1/CTIS.h
+string
+-
+ostream
+-
+vector
+-
+
+/Users/suryapradipta/Desktop/Process/AssignmentCoba1/main.cpp
+iostream
+-
+CTIS.h
+/Users/suryapradipta/Desktop/Process/AssignmentCoba1/CTIS.h
+vector
+-
+

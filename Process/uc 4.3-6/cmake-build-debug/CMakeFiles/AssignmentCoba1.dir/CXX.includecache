@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/suryapradipta/Desktop/Process/uc 4.3-6/CTIS.h
+string
+-
+ostream
+-
+vector
+-
+
+/Users/suryapradipta/Desktop/Process/uc 4.3-6/CentreOfficer.cpp
+iostream
+-
+CTIS.h
+/Users/suryapradipta/Desktop/Process/uc 4.3-6/CTIS.h
+
+/Users/suryapradipta/Desktop/Process/uc 4.3-6/main.cpp
+iostream
+-
+CTIS.h
+/Users/suryapradipta/Desktop/Process/uc 4.3-6/CTIS.h
+vector
+-
+
